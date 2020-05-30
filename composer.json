@@ -1,0 +1,33 @@
+{
+  "name": "macroprog/wkhtmltopdf-binaries",
+  "description": "Convert html to pdf using webkit (qtwebkit). Binaries for windows and Unix 64 bit systems.",
+  "keywords": [
+    "pdf",
+    "thumbnail",
+    "snapshot",
+    "wkhtmltopdf",
+    "convert",
+    "binary",
+    "htmltopdf",
+    "htmltoimage"
+  ],
+  "license": "LGPL-3.0-or-later",
+  "homepage": "http://wkhtmltopdf.org/",
+  "authors": [
+    {
+      "name": "Damien AUDOUX",
+      "email": "damien.audoux@macroprog.com",
+      "homepage": "http://www.macroprog.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/macroprog/wkhtmltopdf-binaries/issues?state=open"
+  },
+  "minimum-stability": "stable",
+  "bin": [
+    "wkhtmltopdf-windows/bin/wkhtmltopdf.exe",
+    "wkhtmltopdf-unix/wkhtmltopdf"
+  ],
+  "require": {
+  }
+}
