@@ -26,7 +26,9 @@
   "minimum-stability": "stable",
   "bin": [
     "wkhtmltopdf-windows/bin/wkhtmltopdf.exe",
-    "wkhtmltopdf-unix/wkhtmltopdf"
+    "wkhtmltopdf-windows/bin/wkhtmltoimage.exe",
+    "wkhtmltopdf-unix/wkhtmltopdf",
+    "wkhtmltopdf-unix/wkhtmltoimage"
   ],
   "require": {
   }
