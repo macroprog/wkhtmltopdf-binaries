@@ -27,8 +27,8 @@
   "bin": [
     "wkhtmltopdf-windows/bin/wkhtmltopdf.exe",
     "wkhtmltopdf-windows/bin/wkhtmltoimage.exe",
-    "wkhtmltopdf-unix/wkhtmltopdf",
-    "wkhtmltopdf-unix/wkhtmltoimage"
+    "wkhtmltopdf-unix/ubuntu/wkhtmltopdf",
+    "wkhtmltopdf-unix/ubuntu/wkhtmltoimage"
   ],
   "require": {
   }
